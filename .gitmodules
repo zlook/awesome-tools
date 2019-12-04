@@ -1,0 +1,3 @@
+[submodule "camera_timer_diy"]
+	path = camera_timer_diy
+	url = git@github.com:zlook/camera_timer_diy.git
