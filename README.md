@@ -1,2 +1,2 @@
 # awesome-tools
-一些好玩的东西 ＾＿＾
+> 1. camera_timer_diy 利用嵌入式设备控制手机拍照，实现延时摄影
